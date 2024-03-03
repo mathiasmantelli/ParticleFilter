@@ -1,7 +1,7 @@
 
 # Particle Filter (PF) implementation in Python for my PF series on Medium
 
-![Particle Filter][https://github.com/mathiasmantelli/ParticleFilter/blob/main/figs/particles-spread.png]
+![Particle Filter][https://github.com/mathiasmantelli/ParticleFilter/blob/main/figs/particles-spread.png?raw=true]
 
 
 > **Particle Filter Part 4 Script/Blog**
