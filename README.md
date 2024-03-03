@@ -1,7 +1,7 @@
 
 # Particle Filter (PF) implementation in Python for my PF series on Medium
 
-![Particle Filter][https://github.com/mathiasmantelli/ParticleFilter/blob/main/figs/particles-spread.png?raw=true]
+![ParticleFilter](https://github.com/mathiasmantelli/ParticleFilter/blob/main/figs/particles-spread.png?raw=true)
 
 
 > **Particle Filter Part 4 Script/Blog**
@@ -23,10 +23,6 @@ python main_pf.py <width> <height> <number_of_landmarks> <number_of_particles>
 ```
 ## Examples
 * `python my_pf.py 900 400 3 2000`, with high sigma values 
-<p align="center">
-  <img width=100% src="https://github.com/mathiasmantelli/ParticleFilter/tree/main/figs/demo1.png">
-</p>
+    ![Demo1](https://github.com/mathiasmantelli/ParticleFilter/blob/main/figs/demo1.png)
 * `python my_pf.py 900 400 3 2000`, with low sigma values
-<p align="center">
-  <img width=100% src="https://github.com/mathiasmantelli/ParticleFilter/tree/main/figs/demo2.png">
-</p>
+    ![Demo2](https://github.com/mathiasmantelli/ParticleFilter/blob/main/figs/demo2.png)
