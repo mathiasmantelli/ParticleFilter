@@ -23,6 +23,6 @@ python main_pf.py <width> <height> <number_of_landmarks> <number_of_particles>
 ```
 ## Examples
 * `python my_pf.py 900 400 3 2000`, with high sigma values 
-    ![Demo1](https://github.com/mathiasmantelli/ParticleFilter/blob/main/figs/demo1.png)
+    ![Demo1](https://github.com/mathiasmantelli/ParticleFilter/blob/main/figs/demo1.gif)
 * `python my_pf.py 900 400 3 2000`, with low sigma values
-    ![Demo2](https://github.com/mathiasmantelli/ParticleFilter/blob/main/figs/demo2.png)
+    ![Demo2](https://github.com/mathiasmantelli/ParticleFilter/blob/main/figs/demo2.gif)
