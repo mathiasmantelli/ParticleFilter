@@ -1,9 +1,8 @@
 
 # Particle Filter (PF) implementation in Python for my PF series on Medium
 
-<p align="center">
-  <img width=20% src="https://github.com/mathiasmantelli/ParticleFilter/tree/main/figs/particles-spread.png">
-</p>
+![Particle Filter][https://github.com/mathiasmantelli/ParticleFilter/blob/main/figs/particles-spread.png]
+
 
 > **Particle Filter Part 4 Script/Blog**
 >
